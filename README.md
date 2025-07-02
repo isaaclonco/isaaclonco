@@ -1,23 +1,24 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=157BF7FF"/>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=157BF7FF&width=900&size=21&center=true&lines=Olá+meu+nome+é+Isaac;Eu+sou+estudante+de+Ciencias+da+Computação;Eu+também+sou+Designer;Seja+bem-vindo!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=3000&pause=1000&color=157BF7&center=true&vCenter=true&width=644&height=40&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Isaac+Alon%C3%A7o.;tenho+17+anos+e+sou+de+Bras%C3%ADlia.;Atualmente%2C+estou+cursando+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o.;Sou+apaixonado+por+design+e+desenvolvimento+de+jogos.;sejam+muito+bem-vindos!" alt="Typing SVG"/>
 </div>
-  
-  <br>
+
+<br>
+<br>
 
 <div align="center">
   <img
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=isaaclonco&show_icons=true&count_private=true&rank_icon=github&theme=algolia&font=Iosevka"
+    src="https://github-readme-stats.vercel.app/api/?username=isaaclonco&show_icons=true&count_private=true&rank_icon=github&theme=algolia&font=Iosevka&locale=pt-br"
   />
   <img
     height=125
     align="top"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaaclonco&layout=compact&font=Iosevka&langs_count=16&theme=algolia"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaaclonco&layout=compact&font=Iosevka&langs_count=16&theme=algolia&locale=pt-br"
   />
   <br>
   <br>
@@ -25,9 +26,12 @@
     height=147
     align="center"
     alt="Top Languge"
-    src="https://github-readme-streak-stats.herokuapp.com?user=isaaclonco&theme=algolia&card_width=885"
+    src="https://github-readme-streak-stats.herokuapp.com?user=isaaclonco&theme=algolia&card_width=885&locale=pt-br"
   />
   </div>
+
+  <br>
+  <br>
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
@@ -35,12 +39,11 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arduino.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Matlab-Dark.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
+
   
 </div>
 
@@ -51,17 +54,16 @@
 <div align="center">
   <samp>
     <b>
-      Contact me:
+      Contatos:
     </b>
   </samp>
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-050f2c?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-050f2c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F)
-  [![Discord](https://img.shields.io/badge/Discord-050f2c?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/8kc8HqXVw2)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-050f2c?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5584988964920)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-050f2c?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
+  [![Gmail](https://img.shields.io/badge/Gmail-050f2c?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:isaacalonco2@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-050f2c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/isaac_.al/?next=%2F)
+  [![Discord](https://img.shields.io/badge/Discord-050f2c?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.com/channels/isaac_51)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-050f2c?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/isaac-alon%C3%A7o-222741275/)
   
 </div>
 
@@ -69,7 +71,7 @@
 
 </details>
 
-<br>
+
 <br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=157BF7FF&height=100&section=footer"/>

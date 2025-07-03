@@ -18,7 +18,7 @@
     height=125
     align="top"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaAclonco&layout=compact&font=Iosevka&langs_count=16&theme=algolia&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaAclonco&layout=compact&font=Iosevka&langs_count=4&theme=algolia&locale=pt-br"
   />
 </div>
 

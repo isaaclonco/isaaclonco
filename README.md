@@ -18,7 +18,7 @@
     height=125
     align="top"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaaclonco&layout=compact&font=Iosevka&langs_count=16&theme=algolia&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaAclonco&layout=compact&font=Iosevka&langs_count=16&theme=algolia&locale=pt-br"
   />
   <br>
   <br>
@@ -26,7 +26,7 @@
     height=147
     align="center"
     alt="Top Languge"
-    src="https://github-readme-streak-stats.herokuapp.com?user=isaaclonco&theme=algolia&card_width=885&locale=pt-br"
+    src="https://github-readme-streak-stats.herokuapp.com?user=isaAclonco&theme=algolia&card_width=885&locale=pt-br"
   />
   </div>
 

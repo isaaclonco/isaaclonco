@@ -18,22 +18,22 @@
     height=125
     align="top"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaAclonco&layout=compact&font=Iosevka&langs_count=16&theme=algolia&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaaclonco&layout=compact&font=Iosevka&langs_count=16&theme=algolia&locale=pt-br"
   />
-  <br>
-  <br>
-  <img
-    height=147
-    align="center"
-    alt="Top Languge"
-    src="https://github-readme-streak-stats.herokuapp.com?user=isaAclonco&theme=algolia&card_width=885&locale=pt-br"
-  />
-  </div>
+</div>
 
   <br>
   <br>
 
 <div align="center" style="display: inline_block"><br>
+  <samp>
+    <b>
+      Tecnologias:
+    </b>
+  </samp>
+  <br>
+  <br>
+
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
@@ -43,12 +43,8 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" />
-
-  
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" /> 
 </div>
-
-<br>
 
 ##
 
